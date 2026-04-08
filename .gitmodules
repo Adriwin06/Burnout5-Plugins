@@ -10,3 +10,6 @@
 [submodule "BundleExplorer"]
 	path = BundleExplorer
 	url = git@github.com:Adriwin06/BundleExplorer-Plugin.git
+[submodule "BrnResourceDB"]
+	path = BrnResourceDB
+	url = git@github.com:Adriwin06/BrnResourceDB.git
