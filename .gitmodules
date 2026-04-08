@@ -1,0 +1,12 @@
+[submodule "EnvironmentSettings"]
+	path = EnvironmentSettings
+	url = git@github.com:Adriwin06/EnvironmentSettings-Plugin.git
+[submodule "BrnPhysics"]
+	path = BrnPhysics
+	url = git@github.com:Adriwin06/BrnPhysics-Plugin.git
+[submodule "VolatilityImporter"]
+	path = VolatilityImporter
+	url = git@github.com:Adriwin06/VolatilityImporter-Plugin.git
+[submodule "BundleExplorer"]
+	path = BundleExplorer
+	url = git@github.com:Adriwin06/BundleExplorer-Plugin.git
