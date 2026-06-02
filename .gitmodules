@@ -13,3 +13,6 @@
 [submodule "BrnResourceDB"]
 	path = BrnResourceDB
 	url = git@github.com:Adriwin06/BrnResourceDB.git
+[submodule "VolatilityBridge"]
+	path = VolatilityBridge
+	url = git@github.com:Adriwin06/VolatilityBridge.git
